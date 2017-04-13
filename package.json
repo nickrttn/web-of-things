@@ -1,0 +1,23 @@
+{
+  "name": "web-of-things",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickrttn/web-of-things.git"
+  },
+  "keywords": [
+    "Arduino",
+    "javascript"
+  ],
+  "author": "Nick Rutten <hello@nickrttn.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickrttn/web-of-things/issues"
+  },
+  "homepage": "https://github.com/nickrttn/web-of-things#readme"
+}
