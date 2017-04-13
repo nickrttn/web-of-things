@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nickrttn/web-of-things/issues"
   },
-  "homepage": "https://github.com/nickrttn/web-of-things#readme"
+  "homepage": "https://github.com/nickrttn/web-of-things#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
